@@ -1,0 +1,71 @@
+.div01{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.div01 ul{
+    list-style-type: none;
+    margin-top: 10px;
+    display: inline;
+    margin-right: 30px;
+}
+.div01 img{
+    width: 500px;
+    height: 600px;
+}
+.div01{
+   background: transparent;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    color: white;
+}
+.div02 img{
+    margin-top: 50px;
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+.div02{
+    background-color: rgb(59, 47, 47);
+}
+.div02 ul{
+    list-style-type: none;
+    color: white;
+    margin-top: 200px;
+
+}
+.div03{
+    background-color:burlywood;
+}
+.div03 h6{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.div03 h3{
+    color: white;
+    text-align: center;
+    
+}
+.team-card .card-img {
+  border-radius: 10px;
+  object-fit: cover;
+  height: 100%;
+  margin-left: 10px
+}
+.div04 {
+    
+    background-color: white;
+    text-align: center;
+
+}
+.menu-section {
+  background-color: rgba(0,0,0,0.5); /* fallback if no image */
+}
+
+.menu-card {
+  background: rgba(0, 0, 0, 0.6); /* translucent black */
+  border-radius: 15px;
+}
